@@ -1,3 +1,3 @@
 class Question=
   
-  p1 =
+  p1 = "What color"
