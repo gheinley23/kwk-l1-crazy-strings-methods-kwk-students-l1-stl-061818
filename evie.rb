@@ -1,1 +1,1 @@
-puts "dinos are cool"
+class
